@@ -1,0 +1,7 @@
+1
+00:00:00,040 --> 00:00:01,508
+It is time to make dinner, now.
+
+2
+00:00:02,064 --> 00:00:03,122
+You are hungry again.
