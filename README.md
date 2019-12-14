@@ -4,6 +4,8 @@
 >  
 > You will need the following assets for the code to compile:
 > - [Demigiant's DOTween Pro](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416)
+>  
+> The videos included in this project are not included in this repository, and are remix of the videos found in the [Scaling Egocentric Vision: The EPIC-KITCHENS Dataset](https://epic-kitchens.github.io/).
   
 # [🍽️Kitchen For One - LD44🍽️](https://sandgardeners.itch.io/kitchen-for-one)
 
